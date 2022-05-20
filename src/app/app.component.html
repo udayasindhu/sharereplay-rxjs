@@ -1,0 +1,6 @@
+<button (click)="getCompletedTodos()">Completed todos</button>
+<p *ngIf="completedTodos > 0">Completed todos are : {{ completedTodos }}</p>
+<br /><br />
+
+<button (click)="getIncompleteTods()">Incomplete todos</button>
+<p *ngIf="incompleteTodos > 0">Incomplete todos are : {{ incompleteTodos }}</p>
