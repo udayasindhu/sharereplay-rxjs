@@ -14,6 +14,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Authors](#authors)
+- [Editors](#editors)
 
 ## 🧐 About <a name = "about"></a>
 
